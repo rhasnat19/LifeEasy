@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "318383095912",
+    "project_id": "lifeeasy-hasnat",
+    "storage_bucket": "lifeeasy-hasnat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318383095912:android:7d53840874e82110c8bbdd",
+        "android_client_info": {
+          "package_name": "com.example.life_easy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318383095912-m7ulsle3heerm6fqebch76i1n32lt86v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.life_easy",
+            "certificate_hash": "ddeb50a8cc2a7454d8532fe63bd3ca6c19f497e0"
+          }
+        },
+        {
+          "client_id": "318383095912-uvhe13hsp1gra6lb1tpbgirf82b8l8hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3_zqqCnhYaKXOR-wTA9ItipFShNsPbwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318383095912-uvhe13hsp1gra6lb1tpbgirf82b8l8hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
